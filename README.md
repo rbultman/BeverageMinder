@@ -9,3 +9,6 @@ the cold refrigerator air across your beverage in order to cool it faster
 via convection.  A temperature sensor monitors the bevergage container so
 you know how cold your beverage is.
 
+Check out he BeverageMinder product page on the FirstBuild web site:
+https://firstbuild.com/rob.bultman124/idea-9n1mt2/
+
